@@ -177,7 +177,6 @@ int main()
 	return 0;
 	break;
 	
-	
 	default:
 	printf("Essa opção não está disponível\n");
 	system("pause");
